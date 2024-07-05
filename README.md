@@ -1,6 +1,6 @@
-**MetroStation Locator and Route Planner**
+**Journey Planner**
 
-The MetroStation Locator and Route Planner is a C++ program designed to assist users in finding the nearest metro station, identifying optimal routes between metro stations, and providing essential reference coordinates. The program leverages geographical data and graph algorithms to offer a comprehensive solution for metro navigation. 
+The Journey Planner is a C++ program designed to assist users in finding the nearest metro station, identifying optimal routes between metro stations, and providing essential reference coordinates. The program leverages geographical data and graph algorithms to offer a comprehensive solution for metro navigation. 
 
 **Features:**
 
@@ -36,4 +36,4 @@ The MetroStation Locator and Route Planner is a C++ program designed to assist u
 - Offers real-time navigation solutions by identifying the nearest metro station based on the user's location.
 - Provides geographic reference data for users who want to correlate specific locations with metro stations.
 
-In summary, the MetroStation Locator and Route Planner project offers a robust solution for metro commuters, combining route optimization, nearest station identification, and geographic reference information. This C++ program empowers users to make informed decisions when navigating urban metro networks.
+In summary, the Journey Planner project offers a robust solution for metro commuters, combining route optimization, nearest station identification, and geographic reference information. This C++ program empowers users to make informed decisions when navigating urban metro networks.
